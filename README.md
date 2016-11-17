@@ -1,4 +1,4 @@
-# INTRUDER-SECURITY-WITH-EMAIL-NOTIFIER-USING-CARRIOTS
+# Intruder-Security-With-EmailL-Notifier-Using-Carriots
 
 <b>OBJECTIVE</b>-To detect the motion of an intruder within an area and perform desired operation based on condition  also notifying the person through an email using carriots IOT platform.
 <br><br>
