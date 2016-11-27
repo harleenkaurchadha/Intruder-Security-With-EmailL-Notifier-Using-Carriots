@@ -1,6 +1,6 @@
 # Intruder-Security-With-EmailL-Notifier-Using-Carriots
 
-<b>OBJECTIVE</b>-To detect the motion of an intruder within an area and perform desired operation based on condition  also notifying the person through an email using carriots IOT platform.
+<b>OBJECTIVE</b>-To detect the invasion of an intruder within an area and perform desired operation based on condition  also notifying the person through an email using carriots IOT platform.
 <br><br>
 <b>DESCRIPTION</b><br>
 •	Detect the Motion of a person entering an area using motion detector sensor and LDR to detect lighting conditions inside room if room is dark then light will be switched on automatically for 5 sec after detecting motion.<br> 
