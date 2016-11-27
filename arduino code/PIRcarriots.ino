@@ -1,9 +1,9 @@
 #include <ESP8266WiFi.h>
-const char* ssid="HARLEEN KAUR";
-const char* pass="KARMANSINGH2712"; 
+const char* ssid="YOUR SSID";
+const char* pass="YOUR PASSWORD"; 
 const char* server="api.carriots.com";
-const String APIKEY ="cfe5dbe96edb81af5b09cea1690182b4329987d7f3f13d0390825516b9096828";
-const String DEVICE ="PIR@harleen.harleen";
+const String APIKEY ="YOUR API KEY";
+const String DEVICE ="PIR@abc.abc";
 
 int ledPin=13;
 int pirPin=12;
