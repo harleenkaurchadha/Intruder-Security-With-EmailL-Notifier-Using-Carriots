@@ -10,6 +10,4 @@
 •	Moreover we will get an alert through an email for someone entering the room.<br>
 We will be using Nodemcu for this project<br><br>
 <b>CARRIOTS DATASTREAM</b><br><br>
-<img src="https://cloud.githubusercontent.com/assets/23056679/20398013/ad74001e-ad11-11e6-96ff-3acf2edfb9fb.jpg"><br><br>
-<b>VALUES SENDING TO CARRIOTS PLATFORM</b><br><br>
-<img src="https://cloud.githubusercontent.com/assets/23056679/20398131/1fd3f9de-ad12-11e6-98ff-ee5600b6e98a.jpg">
+<img src=""><br><br>
