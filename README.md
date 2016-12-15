@@ -5,8 +5,8 @@
 2.Build an alert app on carriots by programming a listener to send an email to the owner when someone enters using carriots SDK.
 <br><br>
 <b>DESCRIPTION</b><br>
-•	Detect the Motion of a person entering an area using motion detector sensor and LDR to detect lighting conditions inside room if room is dark then light will be switched on automatically for 5 sec after detecting motion.<br> 
-•	These values for light turning ON or OFF will be saved periodically for entire time span which we can check by logging to out carriots account in data stream section.<br>
+•	Detect the motion of a person entering an area using PIR motion sensor and and lighting conditions inside room using LDR sensor.If room is dark then light will be switched on automatically for 5 sec after detecting motion.<br> 
+•	The entire data of motion detection along with its timestamp is being logged to our account's data stream section which can be checked from anywhere and anytime by simply logging in to our carriots account .<br>
 •	Moreover we will get an alert through an email for someone entering the room.<br>
 We will be using Nodemcu for this project<br><br>
 <b>CARRIOTS DATASTREAM</b><br><br>
